@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built to showcase my skills, experience, and web development projects.
 
-🔗 **Live Demo**: [View Site](https://your-site-name.netlify.app)  
+🔗 **Live Demo**: [View Site](https://fakhirzeeshan.netlify.app)  
 📧 **Contact**: [fakhirzeeshan02@gmail.com](mailto:fakhirzeeshan02@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/fakhirzeeshan) | [GitHub](https://github.com/fakhirzeeshan)
 
